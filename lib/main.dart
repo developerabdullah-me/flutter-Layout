@@ -53,7 +53,7 @@ class MyHomePage extends StatelessWidget {
             Padding(
               padding: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
               child: Text("This is Mode 5 Assignment",  style: TextStyle(
-                fontSize:20,
+                fontSize:16,
                 fontWeight: FontWeight.bold,
               ),),
             ),
